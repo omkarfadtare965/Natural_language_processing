@@ -35,6 +35,7 @@ Natural language processing (NLP) is a branch of AI, linguistics, and computer s
 ### Approaches to achieve NLP applications:
 
 
+![image](https://github.com/user-attachments/assets/9b097313-14f4-4bb5-918e-8d8669469f66)
 
 
 
